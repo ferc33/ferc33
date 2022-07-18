@@ -13,6 +13,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=workbench)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ##### Some of the technologies I have worked with
