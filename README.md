@@ -12,7 +12,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=workbench)
+![MySql](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=mysql)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
