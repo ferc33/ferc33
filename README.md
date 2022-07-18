@@ -21,7 +21,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Archlinux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Archlinux-222222?style=flat&logo=archlinux&logoColor=FCC624)
 
 
 ```
