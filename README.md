@@ -17,6 +17,7 @@
 ![CodeIgniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
 ##### Some of the technologies I have worked with
 
