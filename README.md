@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=workbench)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
