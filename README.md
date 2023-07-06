@@ -18,12 +18,14 @@
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Archlinux-222222?style=flat&logo=archlinux&logoColor=FCC624)
+![Chat GPT](https://img.shields.io/badge/-Chat%20GPT-222222?style=flat&logo=chatbot&logoColor=FCC624)
 
 
 ```
