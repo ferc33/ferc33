@@ -1,31 +1,37 @@
- #### Hi, I'm Fer
-  
-- 🎓Undergraduate student in informatics!
-- Lover of computer security and linux especially the Archlinux distribution
+# Hola, soy Fer 👋
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fc_33)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fercassera@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cassera-5202bb191)
+Soy estudiante de informática, apasionado por la seguridad informática y Linux, especialmente la distribución Archlinux. Trabajo con una variedad de lenguajes y tecnologías, y estoy siempre dispuesto a aprender más.
 
-##### Languages I use
+## Conéctate conmigo
 
+<a href="https://t.me/fc_33">
+  <img align="left" alt="Fer's Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+</a>
+<a href="mailto:fercassera@gmail.com">
+  <img align="left" alt="Fer's Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://www.linkedin.com/in/fernando-cassera-5202bb191">
+  <img align="left" alt="Fer's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<br />
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![MySql](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=mysql)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
-![CodeIgniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
-![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+## 🚀 Lenguajes y Herramientas
 
-##### Some of the technologies I have worked with
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Archlinux-222222?style=flat&logo=archlinux&logoColor=FCC624)
-![Chat GPT](https://img.shields.io/badge/-Chat%20GPT-222222?style=flat&logo=chatbot&logoColor=FCC624)
+## 📊 Mis estadísticas de GitHub
 
-
-```
+![Fer's github stats](https://github-readme-stats.vercel.app/api?username=ferc33&show_icons=true&theme=radical)
