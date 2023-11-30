@@ -1,6 +1,5 @@
 # Hola, soy Fer 👋
 
-Soy estudiante de informática, apasionado por la seguridad informática y Linux, especialmente la distribución Archlinux. Trabajo con una variedad de lenguajes y tecnologías, y estoy siempre dispuesto a aprender más.
 
 ## Conéctate conmigo
 
@@ -24,9 +23,6 @@ Soy estudiante de informática, apasionado por la seguridad informática y Linux
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   
 </p>
-
-
-Esto generará una serie de logos en línea, con los logos de HTML5, Java, MySQL, JavaScript, WordPress, Python, Django correcto, Git, GitHub, Linux y Archlinux.
 
 ## 📊 Mis estadísticas de GitHub
 
