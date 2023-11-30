@@ -17,9 +17,6 @@ Soy estudiante de informática, apasionado por la seguridad informática y Linux
 
 ## 🚀 Lenguajes y Herramientas
 
-Aquí está el código HTML con el logo de Archlinux, sin los logos de PHP, Laravel y Django incorrecto, y con el logo correcto de Django.
-
-
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
