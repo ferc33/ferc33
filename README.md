@@ -40,6 +40,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="border-radius: 50%;"/>
   <strong>Docker</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="border-radius: 50%;"/>
+  <strong>Nginx</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" style="border-radius: 50%;"/>
   <strong>Arch Linux</strong>
 </p>
@@ -52,7 +55,7 @@
 
 ## 📫 Acerca de mí
 
-Soy un analista de sistemas y desarrollador backend apasionado por crear soluciones eficientes y escalables utilizando Python. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías en el proceso. Soy una mente inquieta, siempre buscando qué hacer y qué resolver.
+Soy Analista de sistemas y desarrollador backend apasionado por crear soluciones eficientes y escalables utilizando Python. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías en el proceso. Soy una mente inquieta, siempre buscando qué hacer y qué resolver.
 
 Actualmente, me estoy enfocando en el desarrollo backend utilizando el framework FastAPI, que me permite crear APIs rápidas y robustas.
 
