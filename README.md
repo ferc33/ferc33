@@ -55,8 +55,9 @@
 
 ## 📫 Acerca de mí
 
-Soy Analista de sistemas y desarrollador backend apasionado por crear soluciones eficientes y escalables utilizando Python. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías en el proceso. Soy una mente inquieta, siempre buscando qué hacer y qué resolver.
+Soy Analista de Sistemas y Desarrollador Backend con conocimientos en la creación de soluciones escalables y eficientes utilizando Python. Me apasiona participar en proyectos desafiantes que me permitan expandir mis conocimientos y habilidades, aplicando las últimas tecnologías disponibles en el mercado. Poseo una mentalidad inquisitiva y un constante deseo por aprender y resolver problemas complejos.
 
-Actualmente, me estoy enfocando en el desarrollo backend utilizando el framework FastAPI, que me permite crear APIs rápidas y robustas.
+En la actualidad, me encuentro inmerso en el desarrollo de aplicaciones backend utilizando el framework FastAPI, el cual me brinda la capacidad de construir APIs robustas y de alto rendimiento. Esta tecnología me permite aprovechar al máximo las ventajas de Python, creando soluciones altamente eficientes y escalables.
+Cuento con conocimientos avanzados en entornos Linux, habiendo utilizado principalmente la distribución ArchLinux como mi sistema operativo de escritorio durante varios años. Esta experiencia me ha permitido adquirir habilidades sólidas en el despliegue y mantenimiento de aplicaciones en entornos de servidor, asegurando un rendimiento óptimo y una alta disponibilidad.
 
-Tengo conocimientos avanzados en entornos Linux de cualquier distribución en especial Archlinux, llevándola como escritorio principal durante varios años. Esto me permite desplegar y mantener aplicaciones de manera efectiva en entornos de servidor. También he comenzado a utilizar Docker junto con FastAPI para hacer un despliegue correcto y eficiente de mis aplicaciones, logrando un mejor control y una gestión más eficiente del entorno de desarrollo y producción.
+Además, he incorporado Docker a mi flujo de trabajo en conjunto con FastAPI, lo que me permite realizar despliegues consistentes y eficientes de mis aplicaciones. Esta combinación de tecnologías me brinda un control más preciso sobre los entornos de desarrollo y producción, facilitando la gestión y el mantenimiento de los mismos.
