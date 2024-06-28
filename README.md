@@ -57,6 +57,6 @@
 
 Soy Analista de Sistemas y Desarrollador Backend especializado en Python, enfocado en soluciones escalables y eficientes. Actualmente, estoy estudiando y desarrollando APIs con FastAPI, donde he desarrollado APIs que se conectan a servicios como Telegram, ChatGPT y Yahoo Finance.
 
-Me interesa participar en proyectos relacionados con finanzas o hacking ético, y estoy empezando a utilizar Docker, microservicios y tecnologías serverless. Uno de mis proyectos destacados incluye una API que calcula medias móviles RSI y envía alertas de cambios de tendencia a través de un bot de Telegram. Además, estoy estructurando un nuevo bot con funcionalidades avanzadas orientado a la atención al público y ventas.
+Me interesa participar en proyectos relacionados con finanzas ,cryptomonedas y seguridad informatica y estoy empezando a utilizar Docker, microservicios y tecnologías serverless. Uno de mis proyectos destacados incluye una API que calcula medias móviles RSI y envía alertas de cambios de tendencia a través de un bot de Telegram. Además, estoy estructurando un nuevo bot con funcionalidades avanzadas orientado a la atención al público y ventas.
 
 Busco proyectos que desafíen mis habilidades, me permitan expandir mi experiencia y donde pueda contribuir significativamente.
