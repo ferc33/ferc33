@@ -55,9 +55,8 @@
 
 ## 📫 Acerca de mí
 
-Soy Analista de Sistemas y Desarrollador Backend con conocimientos en la creación de soluciones escalables y eficientes utilizando Python. Me apasiona participar en proyectos desafiantes que me permitan expandir mis conocimientos y habilidades, aplicando las últimas tecnologías disponibles en el mercado. Poseo una mentalidad inquisitiva y un constante deseo por aprender y resolver problemas complejos.
+Soy Analista de Sistemas y Desarrollador Backend especializado en Python, enfocado en soluciones escalables y eficientes. Actualmente, estoy estudiando y aplicando el framework FastAPI en mis proyectos, donde he desarrollado APIs que se conectan a servicios como Telegram, ChatGPT y Yahoo Finance.
 
-En la actualidad, me encuentro inmerso en el desarrollo de aplicaciones backend utilizando el framework FastAPI, el cual me brinda la capacidad de construir APIs robustas y de alto rendimiento. Esta tecnología me permite aprovechar al máximo las ventajas de Python, creando soluciones altamente eficientes y escalables.
-Cuento con conocimientos avanzados en entornos Linux, habiendo utilizado principalmente la distribución ArchLinux como mi sistema operativo de escritorio durante varios años. Esta experiencia me ha permitido adquirir habilidades sólidas en el despliegue y mantenimiento de aplicaciones en entornos de servidor, asegurando un rendimiento óptimo y una alta disponibilidad.
+Me interesa participar en proyectos relacionados con finanzas o hacking ético, y estoy empezando a utilizar Docker, microservicios y tecnologías serverless. Uno de mis proyectos destacados incluye una API que calcula medias móviles RSI y envía alertas de cambios de tendencia a través de un bot de Telegram. Además, estoy estructurando un nuevo bot con funcionalidades avanzadas.
 
-Además, he incorporado Docker a mi flujo de trabajo en conjunto con FastAPI, lo que me permite realizar despliegues consistentes y eficientes de mis aplicaciones. Esta combinación de tecnologías me brinda un control más preciso sobre los entornos de desarrollo y producción, facilitando la gestión y el mantenimiento de los mismos.
+Busco proyectos que desafíen mis habilidades, me permitan expandir mi experiencia y donde pueda contribuir significativamente.
